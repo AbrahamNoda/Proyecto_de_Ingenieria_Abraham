@@ -2,4 +2,4 @@
 ---
 -Semana 2 (29/05/25)
 
-[Descargar especificación (PDF)](docs/recursos/archivos/Scan Syllabus Proyecto Ingeniería .pdf) 
+[Descargar especificación (PDF)](docs/recursos/archivos/ScanSyllabusProyectoIngeniería.pdf)  
