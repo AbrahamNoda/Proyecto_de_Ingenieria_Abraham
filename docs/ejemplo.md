@@ -4,3 +4,5 @@
 
 [Descargar especificación (PDF)](docs/recursos/ScanSyllabusProyectoIngenieria.pdf)  
 
+
+![Diagrama del sistema](recursos/imgs/.jpeg)
