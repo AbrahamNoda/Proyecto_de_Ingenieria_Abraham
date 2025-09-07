@@ -5,9 +5,8 @@
 
 ![Diagrama del sistema](recursos/imgs/Whtssyll.jpg)
 
-[ScanSyllabusProyectoIngeniería.pdf](https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf)
 
 
+[Práctica 1][doc-ref]
 
-
-[Enlace directo](https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf)  
+[doc-ref]: https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf "Practica 1"
