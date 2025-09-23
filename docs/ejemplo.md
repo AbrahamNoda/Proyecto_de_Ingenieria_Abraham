@@ -52,6 +52,7 @@ Ida al IDIT
 
 Portacelulares
 
+![Foto](recursos/imgs/Portacelular.jpeg) 
 
 
 
