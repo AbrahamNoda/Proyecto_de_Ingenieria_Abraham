@@ -21,20 +21,24 @@ Ejercicio 3
 
 Ejercicio 5
 
-https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EbFFcYND34pPuvw7OiX5H0YBzlhFvyqvbEXo9-txtcCt2g?e=iEIuX6
+[Enlace directo](https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EbFFcYND34pPuvw7OiX5H0YBzlhFvyqvbEXo9-txtcCt2g?e=iEIuX6)
+
 Florero
+
+[Enlace directo](https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EZ1rLMzmvQpFmjqNYbOqnRgBzRmKy9k86GRMSvnz9RX0eA?e=BKbNcp)
+
 
 Maceta 1
 
-https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ERqRGA3o2o9IsSqqOnfIw7gBV0Ob4TD_jhZCrPU3JgEKGA?e=MjuNGp 
+[Enlace directo](https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ERqRGA3o2o9IsSqqOnfIw7gBV0Ob4TD_jhZCrPU3JgEKGA?e=MjuNGp) 
 
 Maceta 2
 
-https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ESXg-GAfJgxEuvUuhufZMe4BfDe-Wp3OSsLXohviJ1W6AQ?e=CKRxE3
+[Enlace directo](https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ESXg-GAfJgxEuvUuhufZMe4BfDe-Wp3OSsLXohviJ1W6AQ?e=CKRxE3)
 
 Maceta 3
 
-https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ES-6ij2070FLnzlO6EpYd8kBfsAaLL8qrRlJpNHIkPerxA?e=QBEB7B
+[Enlace directo](https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ES-6ij2070FLnzlO6EpYd8kBfsAaLL8qrRlJpNHIkPerxA?e=QBEB7B)
 
 Ida al IDIT
 
@@ -49,10 +53,5 @@ Ida al IDIT
 Portacelulares
 
 
-[Enlace directo](https://www.iberopuebla.mx/)
-
-[Texto del enlace de referencia][doc-ref]
-
-[doc-ref]: https://www.iberopuebla.mx//docs "Título opcional"
 
 
