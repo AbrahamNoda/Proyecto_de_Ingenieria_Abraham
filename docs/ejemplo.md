@@ -39,9 +39,15 @@ https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ES-6i
 Ida al IDIT
 
 
-![Diagrama del sistema](recursos/imgs/FotoIDIT1.jpg)
-![Diagrama del sistema](recursos/imgs/FotoIDIT2.jpg)
-![Diagrama del sistema](recursos/imgs/FotoIDIT3.jpg)
+![Diagrama del sistema](recursos/imgs/Foto_IDIT_1.jpeg)
+<img src="../recursos/imgs/Foto_IDIT_1.jpeg" alt="Diagrama del sistema" width="420">
+![Diagrama del sistema](recursos/imgs/Foto_IDIT_2.jpeg)
+<img src="../recursos/imgs/Foto_IDIT_2.jpeg" alt="Diagrama del sistema" width="420">
+![Diagrama del sistema](recursos/imgs/Foto_IDIT_3.jpeg)
+<img src="../recursos/imgs/Foto_IDIT_3.jpeg" alt="Diagrama del sistema" width="420">
+
+Portacelulares
+
 
 
 
