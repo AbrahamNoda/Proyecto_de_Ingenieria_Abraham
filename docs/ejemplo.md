@@ -43,12 +43,12 @@ Maceta 3
 Ida al IDIT
 
 
-![Diagrama del sistema](docs/recursos/imgs/FotoIDIT1.jpeg) 
-<img src="../recursos/imgs/Foto_IDIT_1.jpeg" alt="Diagrama del sistema" width="420">
-![Diagrama del sistema](recursos/imgs/Foto_IDIT_2.jpeg)
-<img src="../recursos/imgs/Foto_IDIT_2.jpeg" alt="Diagrama del sistema" width="420">
-![Diagrama del sistema](recursos/imgs/Foto_IDIT_3.jpeg)
-<img src="../recursos/imgs/Foto_IDIT_3.jpeg" alt="Diagrama del sistema" width="420">
+![Diagrama del sistema](recursos/imgs/FotoIDIT1.jpeg) 
+
+![Diagrama del sistema](recursos/imgs/FotoIDIT2.jpeg)
+
+![Diagrama del sistema](recursos/imgs/FotoIDIT3.jpeg)
+
 
 Portacelulares
 
