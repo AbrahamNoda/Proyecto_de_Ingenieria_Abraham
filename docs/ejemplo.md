@@ -13,13 +13,11 @@
 
 Tarea 1
 
-[Tarea 1][doc-ref]
-
-[doc-ref]:https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt
+[Enlace directo](https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt)
 
 Ejercicio 3
 
-https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EZqiuaQncBZAqdMaiTxne-sBO_lrMAziB6y18CshPJj4rg?e=t0laoq
+[Enlace directo](https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EZqiuaQncBZAqdMaiTxne-sBO_lrMAziB6y18CshPJj4rg?e=t0laoq)
 
 Ejercicio 5
 
@@ -51,6 +49,10 @@ Ida al IDIT
 Portacelulares
 
 
+[Enlace directo](https://www.iberopuebla.mx/)
 
+[Texto del enlace de referencia][doc-ref]
+
+[doc-ref]: https://www.iberopuebla.mx//docs "Título opcional"
 
 
