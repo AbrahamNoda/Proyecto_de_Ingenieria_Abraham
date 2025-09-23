@@ -13,7 +13,9 @@
 
 Tarea 1
 
-https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt
+[Tarea 1][doc-ref]
+
+[doc-ref]:https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt
 
 Ejercicio 3
 
@@ -39,7 +41,7 @@ https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ES-6i
 Ida al IDIT
 
 
-![Diagrama del sistema](recursos/imgs/Foto_IDIT_1.jpeg)
+![Diagrama del sistema](recursos/imgs/FotoIDIT1.jpeg) 
 <img src="../recursos/imgs/Foto_IDIT_1.jpeg" alt="Diagrama del sistema" width="420">
 ![Diagrama del sistema](recursos/imgs/Foto_IDIT_2.jpeg)
 <img src="../recursos/imgs/Foto_IDIT_2.jpeg" alt="Diagrama del sistema" width="420">
@@ -47,6 +49,7 @@ Ida al IDIT
 <img src="../recursos/imgs/Foto_IDIT_3.jpeg" alt="Diagrama del sistema" width="420">
 
 Portacelulares
+
 
 
 
