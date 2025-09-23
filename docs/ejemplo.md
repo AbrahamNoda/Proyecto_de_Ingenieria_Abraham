@@ -11,5 +11,21 @@
 
 [doc-ref]: https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf "Practica 1"
 
+Tarea 1
+https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt
 
-[doc-ref]: https://github.com/AbrahamNoda/Proyecto_de_Ingenieria_Abraham/blob/main/docs/recursos/ScanSyllabusProyectoIngenieri%CC%81a.pdf
+Ejercicio 3
+https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EZqiuaQncBZAqdMaiTxne-sBO_lrMAziB6y18CshPJj4rg?e=t0laoq
+
+Ejercicio 5
+https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EbFFcYND34pPuvw7OiX5H0YBzlhFvyqvbEXo9-txtcCt2g?e=iEIuX6
+Florero
+
+Maceta 1
+https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ERqRGA3o2o9IsSqqOnfIw7gBV0Ob4TD_jhZCrPU3JgEKGA?e=MjuNGp 
+
+Maceta 2
+https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ESXg-GAfJgxEuvUuhufZMe4BfDe-Wp3OSsLXohviJ1W6AQ?e=CKRxE3
+
+Maceta 3
+https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/ES-6ij2070FLnzlO6EpYd8kBfsAaLL8qrRlJpNHIkPerxA?e=QBEB7B
