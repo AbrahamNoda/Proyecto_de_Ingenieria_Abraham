@@ -7,7 +7,7 @@
 
 
 
-[Práctica 1][doc-ref]
+[Syllabus][doc-ref]
 
 [doc-ref]: https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf "Practica 1"
 
@@ -49,10 +49,10 @@ Ida al IDIT
 
 ![Diagrama del sistema](recursos/imgs/FotoIDIT3.jpeg)
 
-
 Portacelulares
 
 ![Foto](recursos/imgs/Portacelular.jpeg) 
+
 
 
 
