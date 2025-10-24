@@ -98,3 +98,5 @@
 
 ### Impresión 3D con IA
 
+![Diagrama del sistema](recursos/imgs/Fotoperrosalchicha3D.jpg)
+<img width="1194" height="679" alt="Captura de pantalla 2025-10-24 045006" src="https://github.com/user-attachments/assets/7415d9d7-85ba-45f7-8ae8-846bcf22e27a" />
