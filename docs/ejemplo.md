@@ -86,4 +86,15 @@
 ### Grabado de logo con laser 
 
 ![Diagrama del sistema](recursos/imgs/Fotologoplayboy.jpg)
+<img width="1834" height="995" alt="Captura de pantalla 2025-10-24 052252" src="https://github.com/user-attachments/assets/ced78482-de9b-48ac-90cd-854eb7e8ee75" />
+
+### Impresión 3D
+
+
+![Diagrama del sistema](recursos/imgs/Fotoefera.jpg)
+
+<img width="1889" height="988" alt="Captura de pantalla 2025-10-24 052540" src="https://github.com/user-attachments/assets/3a5977ea-5e6e-4653-b4f9-22491b934a14" />
+
+
+### Impresión 3D con IA
 
