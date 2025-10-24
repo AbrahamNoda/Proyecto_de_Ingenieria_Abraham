@@ -81,8 +81,9 @@
 
 ![Diagrama del sistema](recursos/imgs/Fotocortepajaro1.jpg)
 ![Diagrama del sistema](recursos/imgs/Fotocortepajaro2.jpg)
-
+<img width="1890" height="978" alt="Captura de pantalla 2025-10-24 050650" src="https://github.com/user-attachments/assets/6527d161-c512-48c1-a68d-0a81e1bc7c2a" />
 
 ### Grabado de logo con laser 
 
 ![Diagrama del sistema](recursos/imgs/Fotologoplayboy.jpg)
+
