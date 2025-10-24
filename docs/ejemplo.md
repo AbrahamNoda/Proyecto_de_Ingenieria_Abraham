@@ -70,10 +70,10 @@
 ### Introducción al corte laser
 
 
-![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser1.jpeg)
-![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser2.jpeg)
-![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser3.jpeg)
+![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser1.jpg)
+![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser2.jpg)
+![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser3.jpg)
 
 
 
-![Fotointroduccioncortelaser1](https://github.com/user-attachments/assets/4e4403c2-4107-4a41-af0d-72222cb265b2)
+
