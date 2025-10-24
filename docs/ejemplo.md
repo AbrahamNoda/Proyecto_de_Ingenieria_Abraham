@@ -67,6 +67,7 @@
 
 ![Foto](recursos/imgs/Portacelular.jpeg) 
 
+
 ### Introducción al corte laser
 
 
@@ -75,5 +76,13 @@
 ![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser3.jpg)
 
 
+### Ensamble de corte laser
 
 
+![Diagrama del sistema](recursos/imgs/Fotocortepajaro1.jpg)
+![Diagrama del sistema](recursos/imgs/Fotocortepajaro2.jpg)
+
+
+### Grabado de logo con laser 
+
+![Diagrama del sistema](recursos/imgs/Fotologoplayboy.jpg)
