@@ -100,3 +100,9 @@
 
 ![Diagrama del sistema](recursos/imgs/Fotoperrosalchicha3D.jpg)
 <img width="1194" height="679" alt="Captura de pantalla 2025-10-24 045006" src="https://github.com/user-attachments/assets/7415d9d7-85ba-45f7-8ae8-846bcf22e27a" />
+
+### Introduccion al corte de lamina
+
+![Diagrama del sistema](recursos/imgs/Fotointroduccionametal.jpg)
+![Diagrama del sistema](recursos/imgs/Fotointroduccionametal2.jpg)
+![Diagrama del sistema](recursos/imgs/Fotointroduccionametal3.jpg)
