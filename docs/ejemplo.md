@@ -91,7 +91,7 @@
 ### Impresión 3D
 
 
-![Diagrama del sistema](recursos/imgs/Fotoefera.jpg)
+![Diagrama del sistema](recursos/imgs/Fotoesfera.jpg)
 
 <img width="1889" height="988" alt="Captura de pantalla 2025-10-24 052540" src="https://github.com/user-attachments/assets/3a5977ea-5e6e-4653-b4f9-22491b934a14" />
 
