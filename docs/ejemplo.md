@@ -116,3 +116,6 @@
 ![Diagrama del sistema](recursos/imgs/Fotointroduccionametal3.jpg)
 
 
+### Escaneo de rostro 
+![Diagrama del sistema](recursos/imgs/Fotoescaneocara.jpg)
+![Diagrama del sistema](recursos/imgs/Fotoescaneodecara2.jpg)
