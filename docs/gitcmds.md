@@ -262,9 +262,9 @@
                     <span class="badge">Experiencia</span>
                     <p>Recorrido por las instalaciones del Instituto de Innovación y Desarrollo Tecnológico</p>
                     <div class="grid-images">
-                        <img src="recursos/imgs/Foto IDIT 1.jpeg" alt="IDIT 1">
-                        <img src="recursos/imgs/Foto IDIT 2.jpeg" alt="IDIT 2">
-                        <img src="recursos/imgs/Foto IDIT 3.jpeg" alt="IDIT 3">
+                        <img src="recursos/imgs/FotoIDIT1.jpeg" alt="IDIT 1">
+                        <img src="recursos/imgs/FotoIDIT2.jpeg" alt="IDIT 2">
+                        <img src="recursos/imgs/FotoIDIT3.jpeg" alt="IDIT 3">
                     </div>
                 </div>
 
@@ -329,7 +329,7 @@
                     <h3>⚒️ Introducción al Corte de Lámina</h3>
                     <span class="badge">Metales</span>
                     <div class="grid-images">
-                        <img src="recursos/imgs/Fotointroduccionametal1.jpg" alt="Metal 1">
+                        <img src="recursos/imgs/Fotointroduccionametal.jpg" alt="Metal 1">
                         <img src="recursos/imgs/Fotointroduccionametal2.jpg" alt="Metal 2">
                         <img src="recursos/imgs/Fotointroduccionametal3.jpg" alt="Metal 3">
                     </div>
