@@ -209,8 +209,7 @@
             <div id="solidworks" class="tab-content active">
                 <div class="project-card">
                     <h3>📘 Syllabus del Curso</h3>
-                    <img src="recursos/imgs/Whtssyll.jpg" alt="Syllabus" class="project-image">
-                    <a href="https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf" class="btn-link" target="_blank">Ver Syllabus</a>
+                    ![Diagrama del sistema](recursos/imgs/Whtssyll.jpg)
                 </div>
 
                 <div class="project-card">
