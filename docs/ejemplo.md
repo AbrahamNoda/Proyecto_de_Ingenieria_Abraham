@@ -140,6 +140,7 @@
 ### Figurin
 ![Diagrama del sistema](recursos/imgs/Figurin.jpg)
 [Figurin](recursos/archivos/Figurin.SLDPRT)
+[Figurin corte](recursos/archivos/Figurincorte.DXF)
 
 ### Catapulta 
 <img width="1919" height="1012" alt="Captura de pantalla 2025-12-07 133302" src="https://github.com/user-attachments/assets/94ff4d0d-5dfa-4c94-9fc8-a2b684f3d51e" />
