@@ -119,3 +119,13 @@
 ### Escaneo de rostro 
 ![Diagrama del sistema](recursos/imgs/Fotoescaneocara.jpg)
 ![Diagrama del sistema](recursos/imgs/Fotoescaneodecara2.jpg)
+
+### Caja de lamina 
+![Diagrama del sistema](recursos/imgs/Fotocaja1.jpg)
+![Diagrama del sistema](recursos/imgs/Fotocaja2.jpg)
+![Diagrama del sistema](recursos/imgs/Fotocaja3.jpg)
+![Diagrama del sistema](recursos/imgs/Fotocaja4.jpg)
+![Diagrama del sistema](recursos/imgs/Fotocaja5.jpg)
+![Diagrama del sistema](recursos/imgs/Fotocaja6.jpg)
+![Diagrama del sistema](recursos/imgs/Fotocaja7.jpg)
+
