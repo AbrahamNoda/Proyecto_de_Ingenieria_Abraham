@@ -134,7 +134,9 @@
 [Matriz](recursos/archivos/WCADNmatrizarriba.SLDPRT)
 
 ### Cartel CNC Router
+[Matriz](recursos/archivos/Letreroentrada.DXF)Letrero entrada
 
-### Figurin
+### Figurin[Uploading Letrero entrada.DXF…]()
+
 ### Catapulta 
 
