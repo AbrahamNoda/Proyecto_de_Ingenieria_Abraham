@@ -145,7 +145,7 @@
 <img width="1919" height="1011" alt="Captura de pantalla 2025-12-07 133327" src="https://github.com/user-attachments/assets/f8a319b4-225b-4bc7-9877-ccc1cbddeae9" />
 <img width="1919" height="999" alt="Captura de pantalla 2025-12-07 133346" src="https://github.com/user-attachments/assets/50da933f-9c94-4950-829f-25d17db342a2" />
 <img width="1919" height="1005" alt="Captura de pantalla 2025-12-07 133403" src="https://github.com/user-attachments/assets/f851e963-6b55-48bb-9a44-edcb73a729dd" />
-
+![Diagrama del sistema](recursos/imgs/Catapulta.jpg)
 [Catapulta Ensamble](recursos/archivos/Catapultaensamble.SLDPRT)
 [Catapulta Ensamble](recursos/archivos/Armcatapulta.SLDPRT)
 [Catapulta Ensamble](recursos/archivos/Basecatapulta.SLDPRT)
