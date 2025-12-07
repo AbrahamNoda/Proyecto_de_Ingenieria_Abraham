@@ -13,7 +13,7 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
             min-height: 100vh;
             padding: 20px;
         }
@@ -28,7 +28,7 @@
         }
 
         .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
             color: white;
             padding: 40px;
             text-align: center;
@@ -48,7 +48,7 @@
         .tabs {
             display: flex;
             background: #f8f9fa;
-            border-bottom: 3px solid #667eea;
+            border-bottom: 3px solid #1e3a8a;
             overflow-x: auto;
         }
 
@@ -66,12 +66,12 @@
         }
 
         .tab:hover {
-            background: rgba(102, 126, 234, 0.1);
-            color: #667eea;
+            background: rgba(30, 58, 138, 0.1);
+            color: #1e3a8a;
         }
 
         .tab.active {
-            color: #667eea;
+            color: #1e3a8a;
             background: white;
         }
 
@@ -82,7 +82,7 @@
             left: 0;
             right: 0;
             height: 3px;
-            background: #667eea;
+            background: #1e3a8a;
         }
 
         .content {
@@ -124,7 +124,7 @@
         }
 
         .project-card h3 {
-            color: #667eea;
+            color: #1e3a8a;
             margin-bottom: 15px;
             font-size: 1.5em;
         }
@@ -141,19 +141,19 @@
         .btn-link {
             display: inline-block;
             padding: 12px 25px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
             color: white;
             text-decoration: none;
             border-radius: 25px;
             margin-top: 15px;
             font-weight: 600;
             transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+            box-shadow: 0 4px 15px rgba(30, 58, 138, 0.3);
         }
 
         .btn-link:hover {
             transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 6px 20px rgba(30, 58, 138, 0.4);
         }
 
         .grid-images {
@@ -179,7 +179,7 @@
         .badge {
             display: inline-block;
             padding: 5px 15px;
-            background: #667eea;
+            background: #1e3a8a;
             color: white;
             border-radius: 20px;
             font-size: 0.85em;
@@ -191,7 +191,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>🚀 Portafolio de Proyectos</h1>
+            <h1>Portafolio de Proyectos</h1>
             <p>Ingeniería y Fabricación Digital - Semana 2</p>
         </div>
 
@@ -208,40 +208,41 @@
             <!-- SolidWorks Tab -->
             <div id="solidworks" class="tab-content active">
                 <div class="project-card">
-                    <h3>📘 Syllabus del Curso</h3>
-                    ![Diagrama del sistema](recursos/imgs/Whtssyll.jpg)
+                    <h3>Syllabus del Curso</h3>
+                    <img src="recursos/imgs/Whtssyll.jpg" alt="Syllabus" class="project-image">
+                    <a href="https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf" class="btn-link" target="_blank">Ver Syllabus</a>
                 </div>
 
                 <div class="project-card">
-                    <h3>📝 Tarea 1</h3>
+                    <h3>Tarea 1</h3>
                     <span class="badge">SolidWorks</span>
                     <img src="recursos/imgs/CapturaSldTarea1.png" alt="Tarea 1" class="project-image">
                     <a href="https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt" class="btn-link" target="_blank">Ver Archivo</a>
                 </div>
 
                 <div class="project-card">
-                    <h3>🔧 Ejercicio 3</h3>
+                    <h3>Ejercicio 3</h3>
                     <span class="badge">SolidWorks</span>
                     <img src="recursos/imgs/CapturaSldEj3.png" alt="Ejercicio 3" class="project-image">
                     <a href="https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EZqiuaQncBZAqdMaiTxne-sBO_lrMAziB6y18CshPJj4rg?e=t0laoq" class="btn-link" target="_blank">Ver Archivo</a>
                 </div>
 
                 <div class="project-card">
-                    <h3>⚙️ Ejercicio 5</h3>
+                    <h3>Ejercicio 5</h3>
                     <span class="badge">SolidWorks</span>
                     <img src="recursos/imgs/CapturaSldEj5.png" alt="Ejercicio 5" class="project-image">
                     <a href="https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EbFFcYND34pPuvw7OiX5H0YBzlhFvyqvbEXo9-txtcCt2g?e=iEIuX6" class="btn-link" target="_blank">Ver Archivo</a>
                 </div>
 
                 <div class="project-card">
-                    <h3>🌺 Florero</h3>
+                    <h3>Florero</h3>
                     <span class="badge">Diseño</span>
                     <img src="recursos/imgs/CapturaSldFlorero.png" alt="Florero" class="project-image">
                     <a href="https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/EZ1rLMzmvQpFmjqNYbOqnRgBzRmKy9k86GRMSvnz9RX0eA?e=BKbNcp" class="btn-link" target="_blank">Ver Archivo</a>
                 </div>
 
                 <div class="project-card">
-                    <h3>🪴 Macetas</h3>
+                    <h3>Macetas</h3>
                     <span class="badge">Diseño</span>
                     <div class="grid-images">
                         <img src="recursos/imgs/CapturaSldMaceta1.png" alt="Maceta 1">
@@ -257,7 +258,7 @@
             <!-- IDIT Tab -->
             <div id="idit" class="tab-content">
                 <div class="project-card">
-                    <h3>🏭 Visita al IDIT</h3>
+                    <h3>Visita al IDIT</h3>
                     <span class="badge">Experiencia</span>
                     <p>Recorrido por las instalaciones del Instituto de Innovación y Desarrollo Tecnológico</p>
                     <div class="grid-images">
@@ -268,7 +269,7 @@
                 </div>
 
                 <div class="project-card">
-                    <h3>📱 Portacelulares</h3>
+                    <h3>Portacelulares</h3>
                     <span class="badge">Proyecto</span>
                     <img src="recursos/imgs/Portacelular.jpeg" alt="Portacelular" class="project-image">
                 </div>
@@ -277,7 +278,7 @@
             <!-- Laser Tab -->
             <div id="laser" class="tab-content">
                 <div class="project-card">
-                    <h3>🔥 Introducción al Corte Láser</h3>
+                    <h3>Introducción al Corte Láser</h3>
                     <span class="badge">Capacitación</span>
                     <div class="grid-images">
                         <img src="recursos/imgs/Fotointroduccioncortelaser1.jpg" alt="Intro Láser 1">
@@ -287,7 +288,7 @@
                 </div>
 
                 <div class="project-card">
-                    <h3>🦅 Ensamble de Corte Láser - Pájaro</h3>
+                    <h3>Ensamble de Corte Láser - Pájaro</h3>
                     <span class="badge">Fabricación</span>
                     <div class="grid-images">
                         <img src="recursos/imgs/Fotocortepajaro1.jpg" alt="Pájaro 1">
@@ -298,7 +299,7 @@
                 </div>
 
                 <div class="project-card">
-                    <h3>🎨 Grabado de Logo con Láser</h3>
+                    <h3>Grabado de Logo con Láser</h3>
                     <span class="badge">Grabado</span>
                     <img src="recursos/imgs/Fotologoplayboy.jpg" alt="Logo" class="project-image">
                     <a href="recursos/archivos/logodeplayboy.DXF" class="btn-link" download>Descargar DXF</a>
@@ -308,14 +309,14 @@
             <!-- Impresión 3D Tab -->
             <div id="impresion3d" class="tab-content">
                 <div class="project-card">
-                    <h3>🌐 Impresión 3D - Esfera</h3>
+                    <h3>Impresión 3D - Esfera</h3>
                     <span class="badge">3D Print</span>
                     <img src="recursos/imgs/Fotoesfera.jpg" alt="Esfera" class="project-image">
                     <a href="recursos/archivos/Solidpiezabna3d.SLDPRT" class="btn-link" download>Descargar Pieza 3D</a>
                 </div>
 
                 <div class="project-card">
-                    <h3>🤖 Impresión 3D con IA - Perro Salchicha</h3>
+                    <h3>Impresión 3D con IA - Perro Salchicha</h3>
                     <span class="badge">IA</span><span class="badge">3D Print</span>
                     <img src="recursos/imgs/FotoPerroSalchicha.jpg" alt="Perro" class="project-image">
                     <p>Modelo generado con inteligencia artificial e impreso en 3D</p>
@@ -325,7 +326,7 @@
             <!-- Metal Tab -->
             <div id="metal" class="tab-content">
                 <div class="project-card">
-                    <h3>⚒️ Introducción al Corte de Lámina</h3>
+                    <h3>Introducción al Corte de Lámina</h3>
                     <span class="badge">Metales</span>
                     <div class="grid-images">
                         <img src="recursos/imgs/Fotointroduccionametal.jpg" alt="Metal 1">
@@ -338,7 +339,7 @@
             <!-- Escaneo Tab -->
             <div id="escaneo" class="tab-content">
                 <div class="project-card">
-                    <h3>📸 Escaneo 3D de Rostro</h3>
+                    <h3>Escaneo 3D de Rostro</h3>
                     <span class="badge">Escaneo 3D</span>
                     <p>Proceso de captura y digitalización de rostro en 3D</p>
                     <div class="grid-images">
