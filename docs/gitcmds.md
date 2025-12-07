@@ -265,6 +265,10 @@
                         <img src="recursos/imgs/FotoIDIT1.jpeg" alt="IDIT 1">
                         <img src="recursos/imgs/FotoIDIT2.jpeg" alt="IDIT 2">
                         <img src="recursos/imgs/FotoIDIT3.jpeg" alt="IDIT 3">
+                        ![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser1.jpg)
+![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser2.jpg)
+![Diagrama del sistema](recursos/imgs/Fotointroduccioncortelaser3.jpg)
+
                     </div>
                 </div>
 
