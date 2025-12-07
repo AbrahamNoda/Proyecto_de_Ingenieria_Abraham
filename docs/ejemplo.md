@@ -134,6 +134,7 @@
 [Matriz](recursos/archivos/WCADNmatrizarriba.SLDPRT)
 
 ### Cartel CNC Router
+<img width="1163" height="808" alt="Captura de pantalla 2025-12-07 134748" src="https://github.com/user-attachments/assets/be3670e1-9b7c-418f-bbc0-e3fd549ae92c" />
 [Letrero entrada](recursos/archivos/Letreroentrada.DXF)
 
 ### Figurin
