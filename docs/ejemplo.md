@@ -131,8 +131,10 @@
 
 ### Matriz
 <img width="1917" height="1008" alt="Captura de pantalla 2025-12-07 121418" src="https://github.com/user-attachments/assets/25ed25af-69d0-4424-8d1a-02064c33405a" />
-[Pieza 3D](recursos/archivos/.SLDPRT)
+[Matriz](recursos/archivos/WCADNmatrizarriba.SLDPRT)
+
 ### Cartel CNC Router
+
 ### Figurin
 ### Catapulta 
 
