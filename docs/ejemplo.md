@@ -134,9 +134,18 @@
 [Matriz](recursos/archivos/WCADNmatrizarriba.SLDPRT)
 
 ### Cartel CNC Router
-[Matriz](recursos/archivos/Letreroentrada.DXF)Letrero entrada
+[Letrero entrada](recursos/archivos/Letreroentrada.DXF)
 
-### Figurin[Uploading Letrero entrada.DXF…]()
+### Figurin
+![Diagrama del sistema](recursos/imgs/Figurin.jpg)
+[Figurin](recursos/archivos/Figurin.SLDPRT)
 
 ### Catapulta 
+![Diagrama del sistema](recursos/imgs/Armcatapulta.jpg)
+![Diagrama del sistema](recursos/imgs/Armcatapulta.jpg)
+![Diagrama del sistema](recursos/imgs/Armcatapulta.jpg)
+[Catapulta Ensamble](recursos/archivos/Catapultaensamble.SLDPRT)
+[Catapulta Ensamble](recursos/archivos/Armcatapulta.SLDPRT)
+[Catapulta Ensamble](recursos/archivos/Basecatapulta.SLDPRT)
+[Catapulta Ensamble](recursos/archivos/Plungercatapulta.SLDPRT)
 
