@@ -146,6 +146,7 @@
             text-decoration: none;
             border-radius: 25px;
             margin-top: 15px;
+            margin-right: 10px;
             font-weight: 600;
             transition: all 0.3s ease;
             box-shadow: 0 4px 15px rgba(30, 58, 138, 0.3);
@@ -269,7 +270,7 @@
                 </div>
 
                 <div class="project-card">
-                    <h3>📱 Portacelulares</h3>
+                    <h3>📱 Portacelular</h3>
                     <span class="badge">Proyecto</span>
                     <img src="recursos/imgs/Portacelular.jpeg" alt="Portacelular" class="project-image">
                 </div>
@@ -318,7 +319,7 @@
                 <div class="project-card">
                     <h3>🤖 Impresión 3D con IA - Perro Salchicha</h3>
                     <span class="badge">IA</span><span class="badge">3D Print</span>
-                    <img src="recursos/imgs/Fotoperrosalchicha3D.jpg" alt="Perro" class="project-image">
+                    <img src="recursos/imgs/FotoPerroSalchicha.jpg" alt="Perro" class="project-image">
                     <p>Modelo generado con inteligencia artificial e impreso en 3D</p>
                 </div>
             </div>
