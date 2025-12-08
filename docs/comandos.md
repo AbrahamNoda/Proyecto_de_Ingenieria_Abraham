@@ -8,8 +8,7 @@
     <img src="../recursos/imgs/Whtssyll.jpg" width="400" alt="Syllabus">
     <br><br>
     <a [Syllabus][doc-ref]
-
-[doc-ref]: https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf "Practica 1"><b>📎 Descargar PDF del Syllabus</b></a>
+      [doc-ref]: https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf 
   </div>
 </details>
 
@@ -19,7 +18,7 @@
     <p>Esta fue mi primera tarea. La verdad sirvió mucho para irle agarrando la onda al programa y entender dónde están las herramientas básicas de modelado.</p>
     <img src="../recursos/imgs/CapturaSldTarea1.png" width="600" alt="Tarea 1">
     <br><br>
-    <a href="../https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt"><b>🔗 Ver archivo en la nube</b></a>
+    <a [Enlace directo](https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt)</b></a>
   </div>
 </details>
 
