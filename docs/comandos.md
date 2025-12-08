@@ -2,7 +2,8 @@
 <h3 align="center">Semana 2 (29/05/25)</h3>
 
 <div align="center">
-  <img src="recursos/imgs/Whtssyll.jpg" width="300" alt="Diagrama del sistema">
+  <img src="../recursos/imgs/Whtssyll.jpg" width="300" alt="Diagrama del sistema">
+  <img src="../recursos/imgs/Whtssyll.jpg" alt="Diagrama del sistema" width="420">
   <br>
   <b>📄 <a href="https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf">Ver Syllabus del Proyecto</a></b>
 </div>
