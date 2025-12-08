@@ -7,7 +7,9 @@
     <p>Aquí les dejo el Syllabus del proyecto. Básicamente es el plan de todo lo que vamos a estar viendo en el semestre y cómo vamos a trabajar.</p>
     <img src="../recursos/imgs/Whtssyll.jpg" width="400" alt="Syllabus">
     <br><br>
-    <a href="../https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf"><b>📎 Descargar PDF del Syllabus</b></a>
+    <a [Syllabus][doc-ref]
+
+[doc-ref]: https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf "Practica 1"><b>📎 Descargar PDF del Syllabus</b></a>
   </div>
 </details>
 
