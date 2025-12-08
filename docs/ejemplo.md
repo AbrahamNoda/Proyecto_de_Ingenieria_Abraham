@@ -4,7 +4,7 @@
 
 
 ![Diagrama del sistema](recursos/imgs/Whtssyll.jpg)
-<img src="../recursos/imgs/Whtssyll.jpg" alt="Diagrama del sistema" width="420">
+
 
 
 [Syllabus][doc-ref]
