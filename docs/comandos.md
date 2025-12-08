@@ -2,7 +2,6 @@
 <h3 align="center">Semana 2 (29/05/25)</h3>
 
 <div align="center">
-  <img src="../recursos/imgs/Whtssyll.jpg" width="300" alt="Diagrama del sistema">
   <img src="../recursos/imgs/Whtssyll.jpg" alt="Diagrama del sistema" width="420">
   <br>
   <b>📄 <a href="https://github.com/user-attachments/files/22192666/ScanSyllabusProyectoIngenieria.pdf">Ver Syllabus del Proyecto</a></b>
@@ -17,7 +16,7 @@
   <tr>
     <td align="center" width="33%">
       <h3>Tarea 1</h3>
-      <img src="recursos/imgs/CapturaSldTarea1.png" width="100%">
+      <img src="../recursos/imgs/CapturaSldTarea1.png" width="100%">
       <br><a href="https://iberopuebla-my.sharepoint.com/:u:/g/personal/203599_iberopuebla_mx/Eb8R9IEmgOlIoTJIxipH2QUBdf1OQik5LTwOIDPUnIOe_w?e=Bknjgt">🔗 Link al archivo</a>
     </td>
     <td align="center" width="33%">
