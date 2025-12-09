@@ -51,7 +51,7 @@ Pieza 3
 37
 <img width="1919" height="1008" alt="Captura de pantalla 2025-12-09 135428" src="https://github.com/user-attachments/assets/62302827-0c53-4d96-8052-cdcf154e7869" />
 
-
+"../recursos/archivos/DibujosSolid.ZIP"
 
 
 
