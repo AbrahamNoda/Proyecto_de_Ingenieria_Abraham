@@ -1,3 +1,4 @@
+#Bitacora
 
 <details>
   <summary><h2>Syllabus</h2></summary>
