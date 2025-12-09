@@ -57,7 +57,7 @@
   <div align="center">
     <p>Este es el paquete con los 40 diseños que hicimos. Hay de todo un poco para practicar diferentes herramientas de modelado.</p>
     <br>
-    <a href="https://github.com/user-attachments/files/24024439/40DisenosSLDT.zip"><b>📥 Descargar 40 Diseños (SLDT.zip)</b></a>
+    <a href=><b>📥 Descargar 40 Diseños (SLDT.zip)</b></a>
   </div>
 </details>
 
