@@ -1,4 +1,3 @@
-# Trabajo semanal
 
 <details>
   <summary><h2>Syllabus</h2></summary>
@@ -51,11 +50,126 @@
 </details>
 
 <details>
-  <summary><h2>40 Dibujos</h2></summary>
+  <summary><h2>Dibujos Solid</h2></summary>
   <div align="center">
     <p>Este es el paquete con los 40 diseños que hicimos. Hay de todo un poco para practicar diferentes herramientas de modelado.</p>
     <br>
-    <a href=><b>📥 Descargar 40 Diseños (SLDT.zip)</b></a>
+    <a href="../recursos/archivos/DibujosSolid.zip"><b>📥 Descargar 40 Diseños (SLDT.zip)</b></a>
+    <hr>
+    
+    <p><b>Pieza 1</b></p>
+    <img src="https://github.com/user-attachments/assets/d7a28712-1237-4bf5-ac9a-b8d83b2fc592" width="600" alt="Pieza 1">
+    
+    <p><b>Pieza 2</b></p>
+    <img src="https://github.com/user-attachments/assets/6e697ab9-f626-44f2-9edc-c1701c014f72" width="600" alt="Pieza 2">
+    
+    <p><b>Pieza 3</b></p>
+    <img src="https://github.com/user-attachments/assets/79666e71-6505-414f-a525-e8f07f22372e" width="600" alt="Pieza 3">
+
+    <p><b>Pieza 4</b></p>
+    <img src="https://github.com/user-attachments/assets/e092311e-4348-4b69-88a8-59aab0e8f12c" width="600" alt="Pieza 4">
+    
+    <p><b>Pieza 5</b></p>
+    <img src="https://github.com/user-attachments/assets/9e45c5c1-7e93-4950-966a-ae94f321bdf7" width="600" alt="Pieza 5">
+
+    <p><b>Pieza 6</b></p>
+    <img src="https://github.com/user-attachments/assets/42766a59-1fa8-47a4-9ed1-d0a3d7093b7c" width="600" alt="Pieza 6">
+
+    <p><b>Pieza 7</b></p>
+    <img src="https://github.com/user-attachments/assets/4eaeacd4-7d36-4e36-9631-1eb970d30d65" width="600" alt="Pieza 7">
+
+    <p><b>Pieza 8</b></p>
+    <img src="https://github.com/user-attachments/assets/096b7a12-d5e9-486b-921c-9c6e39049192" width="600" alt="Pieza 8">
+
+    <p><b>Pieza 9</b></p>
+    <img src="https://github.com/user-attachments/assets/597e515e-5e49-4783-a0dc-feb98dbc0741" width="600" alt="Pieza 9">
+
+    <p><b>Pieza 10</b></p>
+    <img src="https://github.com/user-attachments/assets/5afcc156-7d14-4409-bfb3-b68a6b941611" width="600" alt="Pieza 10">
+
+    <p><b>Pieza 11</b></p>
+    <img src="https://github.com/user-attachments/assets/73f181f3-a88f-4aa5-964c-4f6560162621" width="600" alt="Pieza 11">
+
+    <p><b>Pieza 12</b></p>
+    <img src="https://github.com/user-attachments/assets/b0b0d379-66ad-4355-824b-b76cd6e776ea" width="600" alt="Pieza 12">
+
+    <p><b>Pieza 13</b></p>
+    <img src="https://github.com/user-attachments/assets/e5eb5d03-ffcf-43e6-b3a7-481b2788a082" width="600" alt="Pieza 13">
+
+    <p><b>Pieza 14</b></p>
+    <img src="https://github.com/user-attachments/assets/1398aa37-0671-422f-ac12-b1cef7f6f316" width="600" alt="Pieza 14">
+
+    <p><b>Pieza 15</b></p>
+    <img src="https://github.com/user-attachments/assets/663618ae-df07-4b0a-8fcd-0805140e9db2" width="600" alt="Pieza 15">
+
+    <p><b>Pieza 16</b></p>
+    <img src="https://github.com/user-attachments/assets/05fde1b2-9126-4e05-8c1d-bee016912aa2" width="600" alt="Pieza 16">
+
+    <p><b>Pieza 17</b></p>
+    <img src="https://github.com/user-attachments/assets/f543cbe3-4e91-41be-ba0e-b06c3ad5dac3" width="600" alt="Pieza 17">
+
+    <p><b>Pieza 18</b></p>
+    <img src="https://github.com/user-attachments/assets/f84004e1-0028-4418-881d-f68eafe4eab9" width="600" alt="Pieza 18">
+
+    <p><b>Pieza 19</b></p>
+    <img src="https://github.com/user-attachments/assets/1ca0a93c-6d34-48ac-b626-55c50ea78c74" width="600" alt="Pieza 19">
+
+    <p><b>Pieza 20</b></p>
+    <img src="https://github.com/user-attachments/assets/b914bce4-e773-4b0e-af01-c54363ee4ee2" width="600" alt="Pieza 20">
+
+    <p><b>Pieza 21</b></p>
+    <img src="https://github.com/user-attachments/assets/e7b79acd-55fb-4451-bacb-a7aabac0fbf0" width="600" alt="Pieza 21">
+
+    <p><b>Pieza 22</b></p>
+    <img src="https://github.com/user-attachments/assets/65e1d48b-5459-45a5-84d0-ac3113280127" width="600" alt="Pieza 22">
+
+    <p><b>Pieza 23</b></p>
+    <img src="https://github.com/user-attachments/assets/61ee2940-31cd-4feb-b207-536e971887ef" width="600" alt="Pieza 23">
+
+    <p><b>Pieza 24</b></p>
+    <img src="https://github.com/user-attachments/assets/4d498bea-3230-4e31-b50a-a340c64e5b04" width="600" alt="Pieza 24">
+
+    <p><b>Pieza 25</b></p>
+    <img src="https://github.com/user-attachments/assets/4e210093-9697-444f-9c7e-541ff8d7661e" width="600" alt="Pieza 25">
+
+    <p><b>Pieza 26</b></p>
+    <img src="https://github.com/user-attachments/assets/b0994749-e044-4ed5-874a-4e351bdad68a" width="600" alt="Pieza 26">
+
+    <p><b>Pieza 27</b></p>
+    <img src="https://github.com/user-attachments/assets/0a1ce1f6-184d-424f-9a8a-71161479438b" width="600" alt="Pieza 27">
+
+    <p><b>Pieza 28</b></p>
+    <img src="https://github.com/user-attachments/assets/42a6bc4e-bf04-4fdd-805d-5b9e7fffb8ba" width="600" alt="Pieza 28">
+
+    <p><b>Pieza 29</b></p>
+    <img src="https://github.com/user-attachments/assets/5434b380-fb68-4e29-8ef9-5627395bc119" width="600" alt="Pieza 29">
+
+    <p><b>Pieza 30</b></p>
+    <img src="https://github.com/user-attachments/assets/3cc86f27-177b-4f34-ba69-254368da25bc" width="600" alt="Pieza 30">
+
+    <p><b>Pieza 31</b></p>
+    <img src="https://github.com/user-attachments/assets/dd4df530-3efe-4beb-811f-0e8e4e6095eb" width="600" alt="Pieza 31">
+
+    <p><b>Pieza 32</b></p>
+    <img src="https://github.com/user-attachments/assets/d33319ce-4d16-412c-9662-aae650a066d3" width="600" alt="Pieza 32">
+
+    <hr>
+    <h3>Piezas Separadas</h3>
+
+    <p><b>Pieza 34 (Vista 1)</b></p>
+    <img src="https://github.com/user-attachments/assets/b91f8498-ee44-4b35-9c0d-0970ed8b89c5" width="600" alt="Pieza 34 Vista 1">
+    
+    <p><b>Pieza 34 (Vista 2)</b></p>
+    <img src="https://github.com/user-attachments/assets/58deac4c-8837-4af3-8c01-7cce3a2959b5" width="600" alt="Pieza 34 Vista 2">
+    
+    <p><b>Pieza 34 (Vista 3)</b></p>
+    <img src="https://github.com/user-attachments/assets/71ed31bf-c5f5-4f2a-a6a8-c9dfb50da4e5" width="600" alt="Pieza 34 Vista 3">
+    
+    <hr>
+
+    <p><b>Pieza 37</b></p>
+    <img src="https://github.com/user-attachments/assets/62302827-0c53-4d96-8052-cdcf154e7869" width="600" alt="Pieza 37">
+
   </div>
 </details>
 
