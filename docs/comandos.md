@@ -1,6 +1,4 @@
 # Trabajo semanal
-<h1 align="center">Trabajo Semanal</h1>
-<h3 align="center">Semana 2 (29/05/25)</h3>
 
 <details>
   <summary><h2>Syllabus</h2></summary>
